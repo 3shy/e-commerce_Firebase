@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581014938121",
+    "project_id": "ecommerce-59bee",
+    "storage_bucket": "ecommerce-59bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581014938121:android:d0d242784ec4e90aed8ed8",
+        "android_client_info": {
+          "package_name": "com.apps.ssdco.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581014938121-be4pqmpp3jqhh91a2f49vamq543l4o61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD--75UML6wdJ5__IUUGHk7cpI_lITHOCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581014938121-be4pqmpp3jqhh91a2f49vamq543l4o61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
