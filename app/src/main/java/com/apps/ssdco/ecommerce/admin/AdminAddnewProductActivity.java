@@ -1,4 +1,4 @@
-package com.apps.ssdco.ecommerce;
+package com.apps.ssdco.ecommerce.admin;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -14,6 +14,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.apps.ssdco.ecommerce.Prevalent.Prevalent;
+import com.apps.ssdco.ecommerce.R;
 import com.google.android.gms.tasks.Continuation;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
