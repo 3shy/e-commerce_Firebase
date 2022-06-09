@@ -1,7 +1,7 @@
 package com.apps.ssdco.ecommerce.Model;
 
 public class Orders {
-    private String Name, Phone, Address, City, State, Total_Amount, Date, Time;
+    private String Name, Phone, Address, City, State, total, Date, Time;
 
     public String getName() {
         return Name;
@@ -44,11 +44,11 @@ public class Orders {
     }
 
     public String getTotal() {
-        return Total_Amount;
+        return total;
     }
 
-    public void setTotal(String total) {
-        Total_Amount = total;
+    public void setTotal(String totalP) {
+        total = total;
     }
 
     public String getDate() {

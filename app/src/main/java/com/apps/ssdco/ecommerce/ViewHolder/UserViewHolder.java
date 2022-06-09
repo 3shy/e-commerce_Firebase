@@ -8,7 +8,7 @@ import android.widget.TextView;
 import com.apps.ssdco.ecommerce.R;
 
 public class UserViewHolder extends RecyclerView.ViewHolder {
-    TextView txtUserName, txtUserPhone, textPasword;
+    public TextView txtUserName, txtUserPhone, textPasword;
 
     public UserViewHolder(@NonNull View itemView) {
         super(itemView);
